@@ -1,0 +1,8 @@
+path: /content/dataset
+train: /content/dataset/train/images
+val: /content/dataset/valid/images 
+
+# Classes
+names:
+  0: negative
+  1: positive
