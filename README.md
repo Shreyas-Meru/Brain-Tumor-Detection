@@ -23,6 +23,7 @@ This project implements a **Brain Tumor Detection System** using **YOLO (You Onl
 
 ### **3. Detection Results Summary**
 ![image](https://github.com/user-attachments/assets/5dc2b22f-a694-4b29-a71f-0a9cdde670ba)
+
 *A summary of the detected tumor, including confidence scores.*
 
 ## Installation & Setup
