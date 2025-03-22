@@ -39,7 +39,7 @@ This project implements a **Brain Tumor Detection System** using **YOLO (You Onl
 ### **Installation Steps**
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/brain-tumor-detection-yolo.git
+   git clone https://github.com/Shreyas-Meru/Brain-Tumor-Detection.git
    cd brain-tumor-detection-yolo
    ```
 2. **Create a virtual environment (optional but recommended)**
